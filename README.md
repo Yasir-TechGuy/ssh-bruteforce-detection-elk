@@ -96,7 +96,7 @@ Obtain valid SSH credentials through repeated password attempts.
 A valid credential pair was successfully discovered during the simulation:
 
 - Username: msfadmin
-- Password: msfadmin
+- Password: redacted
 
 ### Sample Hydra Command
 
